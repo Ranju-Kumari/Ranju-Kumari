@@ -8,4 +8,4 @@ Hi there 👋
    LinkedIn: https://www.linkedin.com/in/ranju-kumari/
   
    GmailId: ranjukumari0128@gmail.com
-![enter image description here](https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png)
+

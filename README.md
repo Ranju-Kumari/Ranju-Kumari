@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**Ranju-Kumari/Ranju-Kumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there 👋
+- 🌱 I'm Ranju Kumari. I've 6+ years experience as SDET with test automation frameworks like Selenium with 
+  Java language binding, TestNG and REST API automation tests.  
+- 👀 I’m interested in Test Automation
+- 🌱 I’m currently learning more on REST APIs, mobile automation and Data Structures & Algorithms skills.
+- 📫 How to reach me:
+  
+   LinkedIn: https://www.linkedin.com/in/ranju-kumari/
+  
+   GmailId: ranjukumari0128@gmail.com
+![enter image description here](https://miro.medium.com/max/1024/1*9QRFQdpO2f59GsN2KsE9XA.png)
